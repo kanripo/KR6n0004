@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:05.017836
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 菩薩善戒經
 #+PROPERTY: CBETA_ID T30n1582
 #+PROPERTY: ID KR6n0004
@@ -16,7 +16,7 @@
 ¶
 宋罽賓三藏求那跋摩譯¶
 
-10施品
+** 10施品
 :PROPERTIES:
 :head: 菩薩地施品第十
 :END:
@@ -259,7 +259,7 @@
 求果報施。如是十事能令菩薩具足成就檀¶
 波羅蜜。得阿耨多羅三藐三菩提。¶
 
-11戒品
+** 11戒品
 :PROPERTIES:
 :head: 菩薩地戒品第十一
 :END:
